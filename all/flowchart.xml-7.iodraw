@@ -129,6 +129,9 @@
         <mxCell id="UoWY7IOY_2lcHy3cZnJX-33" value="降准降息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="720" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UoWY7IOY_2lcHy3cZnJX-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UoWY7IOY_2lcHy3cZnJX-38" target="UoWY7IOY_2lcHy3cZnJX-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UoWY7IOY_2lcHy3cZnJX-38" value="国内外息差过大&lt;div&gt;国内没有明显好转&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="880" width="120" height="40" as="geometry" />
         </mxCell>
@@ -148,6 +151,9 @@
         </mxCell>
         <mxCell id="UoWY7IOY_2lcHy3cZnJX-45" value="大量选择债市" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UoWY7IOY_2lcHy3cZnJX-52" value="国内外息差过大&lt;div&gt;国内没有明显好转&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="960" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
