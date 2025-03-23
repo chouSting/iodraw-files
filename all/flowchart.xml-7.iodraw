@@ -93,8 +93,14 @@
         <mxCell id="UoWY7IOY_2lcHy3cZnJX-21" value="压制人民币汇率" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="480" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UoWY7IOY_2lcHy3cZnJX-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UoWY7IOY_2lcHy3cZnJX-28" target="UoWY7IOY_2lcHy3cZnJX-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UoWY7IOY_2lcHy3cZnJX-28" value="大资金离开A股&lt;div&gt;南下港股扫货&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="564.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UoWY7IOY_2lcHy3cZnJX-31" value="大资金离开A股&lt;div&gt;南下港股扫货&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="684.5" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
