@@ -19,11 +19,11 @@
         <mxCell id="UoWY7IOY_2lcHy3cZnJX-1" value="国家队主力压制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UoWY7IOY_2lcHy3cZnJX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UoWY7IOY_2lcHy3cZnJX-3" target="UoWY7IOY_2lcHy3cZnJX-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UoWY7IOY_2lcHy3cZnJX-3" value="防止汇率过快上涨" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UoWY7IOY_2lcHy3cZnJX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UoWY7IOY_2lcHy3cZnJX-5" target="UoWY7IOY_2lcHy3cZnJX-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UoWY7IOY_2lcHy3cZnJX-5" value="美元加息目前处于&lt;div&gt;汇率过快贬值周期&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-160" y="240" width="120" height="40" as="geometry" />
