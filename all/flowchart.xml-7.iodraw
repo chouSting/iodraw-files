@@ -22,14 +22,20 @@
         <mxCell id="JXuJhmW7c9i4IOCth8JY-4" value="美方" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="120" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JXuJhmW7c9i4IOCth8JY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JXuJhmW7c9i4IOCth8JY-5" target="JXuJhmW7c9i4IOCth8JY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JXuJhmW7c9i4IOCth8JY-5" value="让美国再次伟大" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JXuJhmW7c9i4IOCth8JY-7" value="指导思想" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JXuJhmW7c9i4IOCth8JY-8" value="指导思想" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JXuJhmW7c9i4IOCth8JY-8" value="战略目标" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JXuJhmW7c9i4IOCth8JY-9" value="让美国再次伟大" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
