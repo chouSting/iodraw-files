@@ -15,6 +15,11 @@
         <mxCell id="P75KgbO-XHE6uIzbRZcx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P75KgbO-XHE6uIzbRZcx-0" target="P75KgbO-XHE6uIzbRZcx-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="P75KgbO-XHE6uIzbRZcx-6" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P75KgbO-XHE6uIzbRZcx-5">
+          <mxGeometry x="-0.1571" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P75KgbO-XHE6uIzbRZcx-0" value="广岛长崎&lt;div&gt;是否被炸&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="80" width="80" height="80" as="geometry" />
         </mxCell>
